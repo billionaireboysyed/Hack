@@ -1,4 +1,12 @@
 ## Welcome to GitHub Page
+for (var i = 1; i <= 10; i++) {
+  console.log("sry sry sry");
+}
+
+
+
+
+
 ## By Syed Nawaz Hussain (https://instagram.com/syed.nawaz_hussain)
 
 You can use the [editor on GitHub](https://github.com/billionaireboysyed/Hack/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
